@@ -1,7 +1,7 @@
 Ruby cheat-sheet
 ====
 
-A Ruby cheat sheet with all the nifty tricks to use as reference from time-to-time. 
+A ruby cheat sheet to use as reference when needed.
 
 
 #License
